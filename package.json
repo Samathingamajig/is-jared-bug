@@ -1,0 +1,15 @@
+{
+  "name": "is-jared-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "isjared": "^1.0.2"
+  }
+}
